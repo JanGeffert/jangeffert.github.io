@@ -52,3 +52,9 @@ Lastly, the Commission needs to act to improve the climate for entrepreneurship 
 Aside from legal instruments, the Commission should start a dialogue with universities about how they can facilitate the transfer of academic knowledge to actual companies and products. The Commission should further promote a more positive image of entrepreneurship by contributing to the funding of incubators and meetups in its startup hubs. Awards and competitions such as the *Startup Europe Awards*, should receive increased funding.
 
 It is important to see that all of the enumerated areas of action are intertwined. For example, reducing the fragmentation of the market will inevitably make it more attractive to investors and therefore increase the level of VC funding available to European businesses. By following the prescribed recommendations, Europe will be on its path to become more competitive technological center of the future.
+
+some text and [here is possible to download the file in PDF][1]
+
+[1]:{{ site.url }}/download/ADigitalUnion.pdf
+
+*You can download a [PDF with all footnotes and attributions here]().*
