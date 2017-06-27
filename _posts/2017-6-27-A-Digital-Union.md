@@ -53,4 +53,4 @@ Aside from legal instruments, the Commission should start a dialogue with univer
 
 It is important to see that all of the enumerated areas of action are intertwined. For example, reducing the fragmentation of the market will inevitably make it more attractive to investors and therefore increase the level of VC funding available to European businesses. By following the prescribed recommendations, Europe will be on its path to become more competitive technological center of the future.
 
-*You can download a [PDF with all footnotes and attributions here]({{ site.url }}/download/ADigitalUnion.pdf).*
+*You can download a [PDF with all footnotes and attributions here](hhtp://jangeffert.github.io/downloads/ADigitalUnion.pdf).*
