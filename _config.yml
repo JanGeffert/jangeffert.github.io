@@ -6,7 +6,7 @@
 name: Jan Geffert
 
 # Short bio or description (displayed in the header)
-description: Computer Science student @ Harvard. Interested in the intersection of technology, society, and government.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: jangeffert
   instagram:
-  linkedin: jan-geffert-8a756a11a
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jangeffert
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
